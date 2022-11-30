@@ -3,7 +3,7 @@ This is actually a Complete department CRUD Rest Api with spring boot
 
 What is was implemented is
 
-- Get all
+- - Get all
 - Get by Id
 - Get by name
 - Post
