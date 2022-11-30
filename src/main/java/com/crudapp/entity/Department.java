@@ -1,4 +1,4 @@
-package com.dailycodebuffer.Springboot.tutorial.entity;
+package com.crudapp.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

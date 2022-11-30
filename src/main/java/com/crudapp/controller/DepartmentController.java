@@ -1,9 +1,8 @@
-package com.dailycodebuffer.Springboot.tutorial.controller;
+package com.crudapp.controller;
 
-import com.dailycodebuffer.Springboot.tutorial.entity.Department;
-import com.dailycodebuffer.Springboot.tutorial.error.DepartmentNotFoundException;
-import com.dailycodebuffer.Springboot.tutorial.service.DepartmentService;
-import com.dailycodebuffer.Springboot.tutorial.service.DepartmentServiceImpl;
+import com.crudapp.service.DepartmentService;
+import com.crudapp.entity.Department;
+import com.crudapp.error.DepartmentNotFoundException;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

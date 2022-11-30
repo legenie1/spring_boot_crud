@@ -1,4 +1,4 @@
-package com.dailycodebuffer.Springboot.tutorial.config;
+package com.crudapp.config;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

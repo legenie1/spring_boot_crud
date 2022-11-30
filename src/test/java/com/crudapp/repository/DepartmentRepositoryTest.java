@@ -1,6 +1,6 @@
-package com.dailycodebuffer.Springboot.tutorial.repository;
+package com.crudapp.repository;
 
-import com.dailycodebuffer.Springboot.tutorial.entity.Department;
+import com.crudapp.entity.Department;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

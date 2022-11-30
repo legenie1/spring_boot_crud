@@ -1,7 +1,7 @@
-package com.dailycodebuffer.Springboot.tutorial.controller;
+package com.crudapp.controller;
 
-import com.dailycodebuffer.Springboot.tutorial.entity.Department;
-import com.dailycodebuffer.Springboot.tutorial.service.DepartmentService;
+import com.crudapp.entity.Department;
+import com.crudapp.service.DepartmentService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

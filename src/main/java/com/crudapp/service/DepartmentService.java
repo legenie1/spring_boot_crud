@@ -1,7 +1,7 @@
-package com.dailycodebuffer.Springboot.tutorial.service;
+package com.crudapp.service;
 
-import com.dailycodebuffer.Springboot.tutorial.entity.Department;
-import com.dailycodebuffer.Springboot.tutorial.error.DepartmentNotFoundException;
+import com.crudapp.entity.Department;
+import com.crudapp.error.DepartmentNotFoundException;
 
 import java.util.List;
 

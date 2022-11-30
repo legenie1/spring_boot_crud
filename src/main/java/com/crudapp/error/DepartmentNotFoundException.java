@@ -1,4 +1,4 @@
-package com.dailycodebuffer.Springboot.tutorial.error;
+package com.crudapp.error;
 
 public class DepartmentNotFoundException extends Exception{
     public DepartmentNotFoundException() {
